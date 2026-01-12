@@ -1,0 +1,4 @@
+2025-01-10 10:22:34 ERROR Login failed for user 192.168.1.10
+2025-01-10 10:23:01 INFO User logged out 192.168.1.11
+2025-01-10 10:24:10 WARNING Disk almost full
+2025-01-10 10:25:45 ERROR Database connection lost at 10.0.0.1
